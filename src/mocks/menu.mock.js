@@ -44,6 +44,38 @@ const kopkenMenu = [
   "Kategori Produk": "Signature Food",
   "SUPABASE URL PUBLIC": "https://hreulbsrxakoxwshzmgj.supabase.co/storage/v1/object/public/assets/products/kopken/signaturebake/pasta_mentai.png"
  },
+  {
+  "No.": 116,
+  "Nama Produk": "Blueberry Americano",
+  "Harga Asli": 19000,
+  "Harga Promo": 13000,
+  "Kategori Produk": "Baru",
+  "SUPABASE URL PUBLIC": "https://hreulbsrxakoxwshzmgj.supabase.co/storage/v1/object/public/assets/products/kopken/baru/blueberry_americano.png"
+ },
+ {
+  "No.": 117,
+  "Nama Produk": "Blueberry Frappe",
+  "Harga Asli": 23000,
+  "Harga Promo": 15000,
+  "Kategori Produk": "Baru",
+  "SUPABASE URL PUBLIC": "https://hreulbsrxakoxwshzmgj.supabase.co/storage/v1/object/public/assets/products/kopken/baru/blueberry.png"
+ },
+ {
+  "No.": 118,
+  "Nama Produk": "Chocoberry Frappe",
+  "Harga Asli": 27000,
+  "Harga Promo": 17000,
+  "Kategori Produk": "Baru",
+  "SUPABASE URL PUBLIC": "https://hreulbsrxakoxwshzmgj.supabase.co/storage/v1/object/public/assets/products/kopken/baru/choco_berry.png"
+ },
+ {
+  "No.": 119,
+  "Nama Produk": "Coffeeberry Frappe",
+  "Harga Asli": 26000,
+  "Harga Promo": 15000,
+  "Kategori Produk": "Baru",
+  "SUPABASE URL PUBLIC": "https://hreulbsrxakoxwshzmgj.supabase.co/storage/v1/object/public/assets/products/kopken/baru/coffee_berry.png"
+ },
  {
   "No.": 2,
   "Nama Produk": "OG Aren Speculoos Latte",
